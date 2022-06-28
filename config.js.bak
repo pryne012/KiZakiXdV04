@@ -28,15 +28,15 @@ global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://youtube.com/channel/UCkGSXTFyyWYAx_fZ4V3pVuQ' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/mrivaldii23'
-global.gc = 'https://chat.whatsapp.com/GBLFmgUnusSDM0yVXNb61o' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '088706420090'
-global.ovo = '088706420090'
+global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.dana = '00000'
+global.gopay = '0000'
 global.wame = 'wa.me/6288706420090'
 global.email = 'helloiampryne@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
-global.sc = 'FOLLOW IG OWNER BARU DAPET SC'
-global.packname = '"{\nAuthor: PRYNE BOT"\n"Bot Number: 6282179960465"\n"Bot Name: Pryne- B O T"\n"Instagram: @rivaldii23"\n}' 
+global.sc = 'https://bit.ly/SubscribeFLOB'
+global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -115,7 +115,6 @@ global.ccomannya = `
  » upvote
  » cekvote
  » hapusvote
- » antidelete [on/off]
 
   「 *Owner Menu* 」
  » react [emoji]
@@ -397,7 +396,7 @@ global.ccomannya = `
  » tupai
 `
 global.sewanya =
-'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 2KK_\n   _• Sewa Bot 1 Bulan : 5K_\n   _• Sewa Bot 1 Tahun : 20K_'
+'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 7K_\n   _• Sewa Bot 1 Bulan : 15K_\n   _• Sewa Bot 1 Tahun : 30K_'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
