@@ -21,7 +21,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Call Me Jaki",
+  "author": "Dika Ardnt.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.1.0",
